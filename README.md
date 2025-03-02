@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sami Benaïssa</h1>
-<h3 align="center">A passionate game development student at ATU sligo</h3>
+<h1 align="center">Hi 👋, I'm Sami</h1>
+<h3 align="center">A passionate indie game developer & university student </h3>
 
 <p align="center">
 </p>
