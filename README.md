@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Sami</h1>
-<h2 align="center">I'm a final year university student studying computer science</h2>
+<h1 align="center">Hello, I'm Sami 👋</h1>
+<h2 align="center">A final year university student studying computer science</h2>
 
 ###
 
