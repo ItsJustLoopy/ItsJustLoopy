@@ -33,10 +33,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itsjustloopy&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Itsjustloopy&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsjustloopy&theme=2077" height="180em" />
-</div>username=ItsJustLoopy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-
-
-
-
