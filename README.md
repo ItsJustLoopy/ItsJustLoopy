@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Sami 👋</h1>
-<h2 align="center">A final year university student studying Games Development, graduating in September 2026.</h2>
+<h2 align="center">A final year university student studying Games Development, graduating in October 2026.</h2>
 
 ###
 
